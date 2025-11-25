@@ -285,6 +285,6 @@ An interactive tool for generating 3D meshes from multiple geometric representat
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16" height="16" /> **Main Profile:** [github.com/tgrillon](https://github.com/tgrillon)  
 ✉️ **Email:** [theogrillon6f9@gmail.com](mailto:theogrillon6f9@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/théo-grillon](https://www.linkedin.com/in/théo-grillon-ab5169253/)
+🔷 **LinkedIn:** [linkedin.com/in/théo-grillon](https://www.linkedin.com/in/théo-grillon-ab5169253/)
 
 ---
