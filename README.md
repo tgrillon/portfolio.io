@@ -40,7 +40,7 @@ A visual showcase of my personal projects in computer graphics, geometry, and si
   </tr>
 </table>
 
-[🔗 View Repository](https://github.com/tgrillon/LawsonMesher.git) | [📄 Technical Details](https://github.com/tgrillon/LawsonMesher/blob/main/README.md)
+[🔗 View Repository](https://github.com/tgrillon/LawsonMesher.git) | [📄 Technical Details (in french)](https://github.com/tgrillon/LawsonMesher/blob/main/README.md#triangulation-de-delaunay)
 
 --- 
 
@@ -166,7 +166,7 @@ An interactive tool for generating 3D meshes from multiple geometric representat
   </tr>
 </table>
 
-[🔗 Live Demo on Shadertoy](https://shadertoy.com/view/DdVBWz)
+[🎥 Live Demo on Shadertoy](https://shadertoy.com/view/DdVBWz)
 
 ---
 
@@ -250,6 +250,8 @@ An interactive tool for generating 3D meshes from multiple geometric representat
 - Pressure, viscosity, and surface tension forces
 - Real-time rendering with optimized spatial hashing
 
+[📄 View report (in french)](data/sph/rapport.pdf)
+
 ---
 
 ### Cloth Simulation - Mass-Spring System
@@ -279,7 +281,9 @@ An interactive tool for generating 3D meshes from multiple geometric representat
 - Collision detection and response
 - Wind forces and gravity
 
----
+[📄 View report (in french)](data/massSpring/rapport.pdf)
+
+--- 
 
 ## 🔗 Contact
 
