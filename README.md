@@ -243,7 +243,7 @@ An interactive tool for generating 3D meshes from multiple geometric representat
   <img src="data/sph/fluid.gif" alt="SPH fluid simulation" width="100%" />
 </p>
 
-**Technologies:** `C++` `OpenGL` `Physics Simulation`
+**Technologies:** `C++` `OpenGL` `Real-time Simulation`
 
 **Features:**
 - Particle-based fluid simulation with 10k+ particles
@@ -253,6 +253,26 @@ An interactive tool for generating 3D meshes from multiple geometric representat
 [📄 View report (in french)](data/sph/rapport.pdf)
 
 ---
+
+### Terrain Analysis and Synthesis - Stream power erosion
+> Procedural terrain generation and analysis through hydrological metrics and hydraulic erosion
+
+<p align="center">
+  <img src="data/mmv/erosion.gif" alt="Stream power erosion" width="100%" />
+</p>
+ 
+**Technologies:** `C++` `OpenGL` `Real-time Simulation`
+
+**Features:**
+- Hierarchical OOP architecture (ScalarField / HeightField) for grid processing
+- Terrain analysis: Gradient, Laplacian, Stream Area and Wetness Index
+- Physically-based erosion models: Stream Power (∂z/∂t)
+
+[📄 View report 1 (in french)](data/mmv/rapport1.pdf)
+[📄 View report 2 (in french)](data/mmv/rapport2.pdf)
+
+---
+
 
 ### Cloth Simulation - Mass-Spring System
 > Realistic fabric deformation using mass-spring dynamics
