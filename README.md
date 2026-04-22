@@ -112,6 +112,12 @@ An interactive tool for generating 3D meshes from multiple geometric representat
 - Custom SDF evaluation functions
 - Support for CSG operations (union, intersection, difference)
 
+<p align="center">
+  <img src="data/modgeo/sdf_tree_build.gif" alt="Real-time Polygonization of Complex CSG Implicit Surfaces" width="100%" />
+  <br>
+  <em>Real-time Polygonization of Complex CSG Implicit Surfaces</em>
+</p>
+
 [🔗 View Repository](https://github.com/tgrillon/ImplicitGeom.git)
 
 ---
